@@ -1,0 +1,17 @@
+# Lista de comandos utilizados:
+
+- git clone 
+- git remote -v
+- git status
+- git init
+- git add .
+- git commit -m "xx"
+- git push origin master
+- git branch
+- git branch -a 
+- git checkout
+- cd
+- code .
+- touch main.js index.html
+- mv
+- history

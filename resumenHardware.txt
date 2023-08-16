@@ -1,0 +1,5 @@
+# Memorias Principales:
+
+- RAM.
+- Caché.
+- ROM.
